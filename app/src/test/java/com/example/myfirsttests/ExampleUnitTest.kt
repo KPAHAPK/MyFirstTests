@@ -64,6 +64,4 @@ class ExampleUnitTest {
     fun emailValidator_Same() {
         assertSame("name@email.com", "name@email.com")
     }
-
-
 }
